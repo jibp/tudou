@@ -14,6 +14,7 @@ namespace tudou
     {
         public static void Main(string[] args)
         {
+            //这是V1.4 版本
             CreateWebHostBuilder(args).Build().Run();
         }
 
